@@ -10,7 +10,6 @@
       "role": "Creator"
     }
   ],
-  "minimum-stability": "stable",
   "require": {
     "squizlabs/php_codesniffer": "^3.0"
   }
